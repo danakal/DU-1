@@ -22,6 +22,10 @@ body {
 
 /* ----- zde zacni psat vlastni css ----- */
 
+.vizual {
+    color:white
+}
+
 body {
     font-family: 'Rubik', sans-serif;
     font-size: 14px;
